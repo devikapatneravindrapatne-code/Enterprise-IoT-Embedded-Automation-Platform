@@ -894,25 +894,5 @@ This project provides practical experience in:
 
 ---
 
-# 👩‍💻 Project Information
-
-**Project Title:** Enterprise IoT & Embedded Automation Platform
-
-**Controller:** ESP32
-
-**Simulation Platform:** Wokwi
-
-**Cloud Platform:** Blynk IoT
-
-**Programming Language:** Embedded C/C++
-
-**Communication:** Wi-Fi
-
-**Domain:** Embedded Systems | IoT | Automation | Cloud Monitoring
-
-**Project Type:** Academic / Educational Project
-
----
-
 
 
