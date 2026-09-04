@@ -703,6 +703,10 @@ Emergency Status → ON
 ```
 Wokwi project:
 (https://wokwi.com/projects/472225709350528001)
+
+https://github.com/user-attachments/assets/66a214b6-96b7-4bed-ac07-64b474e80fd6
+
+
 ---
 
 # 🧪 Blynk Connection Verification
