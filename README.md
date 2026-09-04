@@ -701,7 +701,8 @@ Alert Message    → MACHINE CRITICAL
 Alert Level      → 2
 Emergency Status → ON
 ```
-
+Wokwi project:
+(https://wokwi.com/projects/472225709350528001)
 ---
 
 # 🧪 Blynk Connection Verification
