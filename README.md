@@ -114,9 +114,9 @@ The system follows an edge-to-cloud IoT architecture.
 | ESP32 Pin | Component           | Function               |
 | --------- | ------------------- | ---------------------- |
 | GPIO 4    | DHT22               | Temperature & humidity |
-| GPIO 35   | LDR                 | Ambient light          |
+| GPIO 34   | LDR                 | Ambient light          |
 | GPIO 27   | PIR                 | Motion detection       |
-| GPIO 34   | Slide potentiometer | Machine value          |
+| GPIO 35   | Slide potentiometer | Machine value          |
 | GPIO 26   | Relay               | Load control           |
 
 ---
